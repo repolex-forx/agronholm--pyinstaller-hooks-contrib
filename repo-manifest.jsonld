@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/pyinstaller-hooks-contrib/commit/c8339c6246a68349bf271f127f3734e3e8dd2b4d",
       "git:hexsha": "c8339c6246a68349bf271f127f3734e3e8dd2b4d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T21:11:10.542624+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/pyinstaller-hooks-contrib/commit/e3bf58508eeb8f766b472d0011c3334560dcbca2",
